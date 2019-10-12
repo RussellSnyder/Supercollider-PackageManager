@@ -1,6 +1,12 @@
 # Supercollider-PackageManager (WIP)
 auto load quarks, synthdefs and audio files from a manifest file
 
+## Get involved!
+
+If you want to get involved, please do! We are looking for contributions of all kinds :-)
+
+If you want to meet IRL come by an event of [Berlin Supercollider Meetup](https://www.meetup.com/Supercollider-Hack-Learn-and-Play/)
+
 ## General Idea
 
 A common issue when moving a supercollider project from one machine to another is that quarks, audiofiles and
